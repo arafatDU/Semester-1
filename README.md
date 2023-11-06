@@ -8,7 +8,7 @@
 
 <p>
   <b>CSE-101: Structure Programming</b><br>
-  <s>Here is all codes in C language. These codes are the example and exercise of the book "Teach Yourself C".</s>
+  Here is all codes in C language. These codes are the example and exercise of the book "Teach Yourself C".
 </p>  
 
 <br>
