@@ -1,14 +1,15 @@
 # Semester-1
 <i>Here is all codes I did during my 1st semester.<i><br><be>
-<h5><b>BSc. in Software Engineering</b></h5><br>
-<h5><b>IIT, University Of Dhaka<b></h5>
+<b>BSc. in Software Engineering</b><br>
+<b>IIT, University Of Dhaka<b>
 <br>
 <br>
-<br>
+<be>
 
-<h5><b>CSE-101: Structure Programming</b></h5>
-<h6>Here is all codes in C language. These codes are the example and exercise of the book "Teach Yourself C"</h6>
-  
+<p>
+  <b>CSE-101: Structure Programming</b>
+  Here is all codes in C language. These codes are the example and exercise of the book "Teach Yourself C".
+</p>  
 
 <br>
 <p>
