@@ -1,11 +1,11 @@
 # Semester-1
-<i>Here is all codes I did during my 1st semester<I><br>
+<i>Here is all codes I did during my 1st semester<i><br><br>
 <b>BSc. in Software Engineering</b><br>
 <b>IIT, University Of Dhaka<b>
 <br>
 <br>
 <p>
-<h3>My 1st Semester has 6 courses.</h3><br>
+<h6>My 1st Semester has 6 courses.</h6><br>
 <table>
   <tr>
     <th>Course Code</th>
